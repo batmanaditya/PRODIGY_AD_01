@@ -1,7 +1,8 @@
-# Calculator App ----
+# Calculator App 
+----
 
 
-###This is a simple calculator application built in Java using Android Studio. The app provides basic arithmetic operations and is designed with a clean, user-friendly interface.
+### This is a simple calculator application built in Java using Android Studio. The app provides basic arithmetic operations and is designed with a clean, user-friendly interface.
 
 ## Features
 Perform addition, subtraction, multiplication, and division.
